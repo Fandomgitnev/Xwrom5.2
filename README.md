@@ -4,3 +4,5 @@ in order to start using it when you start the x64 version, then the Console will
 Bin: @ReverseEngineeringLab
 
 ![Image alt](https://github.com/Fandomgitnev/Xwrom5.2/blob/main/virustotal-7-zip.png)
+
+![Image alt](https://github.com/Fandomgitnev/Xwrom5.2/blob/main/virustotal-XWormLoader 5.2 x64exe.png)
