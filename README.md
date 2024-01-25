@@ -5,4 +5,4 @@ Bin: @ReverseEngineeringLab
 
 ![Image alt](https://github.com/Fandomgitnev/Xwrom5.2/blob/main/virustotal-7-zip.png)
 
-![Image alt](https://github.com/Fandomgitnev/Xwrom5.2/blob/main/virustotal-XWormLoader 5.2 x64exe.png)
+![Image alt](https://github.com/Fandomgitnev/Xwrom5.2/blob/main/virustotal-XWormLoader5.2x64exe.png)
